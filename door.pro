@@ -1,4 +1,4 @@
-update=Sat 24 Feb 2018 03:17:04 PM CET
+update=Sat 24 Feb 2018 09:39:44 PM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,13 @@ LibName30=MornsVLSDigi
 LibName31=MornsPMIC
 LibName32=MornsModules
 LibName33=MornsDisplays
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
